@@ -1,0 +1,28 @@
+{
+	"request": {
+		"inputUserkey": "6D83EFC6F6CA694FFC35FAA7D70AD308FB74A6CD",
+		"inputUsername": "sindata",
+    "subgrList" : {
+			"subgr-list" : [{
+	        "selected": "true",
+	        "subnr": "10",
+	        "bezeich": "PACKAGE"
+				}]
+		},
+    "sorttype": "1",
+    "fromDept": "1",
+    "toDept": "14",
+    "dstore": "0",
+    "ldryDept": "20",
+    "allSub": "true",
+    "fromDate": "2019-01-14",
+    "toDate": "2019-01-01",
+    "fact1": "1",
+    "exchgRate": "1",
+    "vatIncluded": "false",
+    "miSubgrp": "false",
+    "detailed": "false",
+    "currSort": "1",
+    "shortFlag": "Yes"
+	}
+}

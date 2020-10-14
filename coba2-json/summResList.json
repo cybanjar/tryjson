@@ -1,0 +1,21 @@
+{
+	"request": {
+		"inputUserkey": "6D83EFC6F6CA694FFC35FAA7D70AD308FB74A6CD",
+		"inputUsername": "sindata",
+		"currDept": "1",
+		"deptName": "",
+		"exchgrate": "12000",
+    "ttArtnr" : {
+			"tt-artnr" : [{
+	        "curr-i": "1",
+	        "artnr": "10"
+				}]
+		},
+		"ldry": "20",
+		"dstore": "20",
+		"clb": "16",
+		"zeit2": "86399",
+		"zeit1": "0",
+		"fromDate": "2019-01-14"
+	}
+}

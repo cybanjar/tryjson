@@ -1,0 +1,31 @@
+[
+  {
+  "nama": "Syamsul",
+  "umur": 32,
+  "nrp": "234",
+  "lulus": true,
+  "hobby": [
+    "coding",
+    "gaming"
+  ],
+  "pembimbing": {
+    "pembimbing1": "Yudhi",
+    "pembimbing2": "Ahmad"
+  }
+},
+{
+  "nama": "Amin",
+  "umur": 32,
+  "nrp": "234",
+  "lulus": true,
+  "hobby": [
+    "coding",
+    "gaming"
+  ],
+  "pembimbing": {
+    "pembimbing1": "Yudhi",
+    "pembimbing2": "Ahmad"
+  }
+}
+
+  ]
